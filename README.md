@@ -1,2 +1,1 @@
-# testbalancer
 Simplistic load balancer
